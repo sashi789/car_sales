@@ -42,7 +42,7 @@ The project organizes data into Fact and Dimension tables as follows:
 - **Dim_Dealer**: Information about car dealers.
 - **Dim_Model**: Details about car models.
 
-![Car Sales Project](carsalesdeproject.png)
+![Car Sales Project](Factdimesions.png)
 
 ## Files and Structure
 - `gold_dim_branch.ipynb`: Jupyter notebook for branch dimension table.
