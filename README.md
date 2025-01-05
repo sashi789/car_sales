@@ -42,7 +42,7 @@ The project organizes data into Fact and Dimension tables as follows:
 - **Dim_Dealer**: Information about car dealers.
 - **Dim_Model**: Details about car models.
 
-![Car Sales Project](carsales_de_project.png)
+![Car Sales Project](carsalesdeproject.png)
 
 ## Files and Structure
 - `gold_dim_branch.ipynb`: Jupyter notebook for branch dimension table.
@@ -53,7 +53,7 @@ The project organizes data into Fact and Dimension tables as follows:
 - `SalesData.csv`: Sample dataset for sales.
 - `IncrementalSales.csv`: Sample dataset for incremental updates.
 - `architecture.png`: Diagram showing the Medallion Architecture.
-- `carsales_de_project.png`: Diagram showing the Fact-Dimension relationships.
+- `carsales de project.png`: Diagram showing the Fact-Dimension relationships.
 - `databricks_workflow.png`: Visualization of the Databricks pipeline.
 - `pipeline_runs.png`: Snapshot of pipeline executions.
 
